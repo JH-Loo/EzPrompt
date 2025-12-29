@@ -9,7 +9,7 @@
 - **Pure HTML/JS**: No installation required. Runs directly in your browser.
 - **Vibe-Oriented**: Focus on your ideas, let ezprompt handle the structure.
 
-🛠️ How to Use
+🛠️ **How to Use**
 
 1. **Download** the `EzPrompt.html` file from this repository.
 2. **Open** it with any web browser (Chrome, Edge, Safari).
